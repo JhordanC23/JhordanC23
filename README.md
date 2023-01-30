@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jhordan
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in Back End Engineering
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by Email : jordan231214@gmail.com
